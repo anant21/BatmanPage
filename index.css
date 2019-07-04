@@ -1,0 +1,78 @@
+
+
+   
+
+div {
+ 
+  padding: 5px; 
+ 
+}
+
+.left{
+  float: left;
+  
+ /* display: inline-block;*/
+}
+
+.right{
+  float: right;
+  float: left;
+}
+
+#bg-img{
+  background-image: url("images/batman.jpg");
+  height: 500px;
+  padding: 40px;
+  margin: 20px;
+  color: #fff;
+}
+
+#content{
+  margin-top: 380px;
+  padding: 30px 20px;
+}
+
+
+table {
+  border: 1px solid;
+  width: 100%;
+
+}
+
+td,th {
+  border: 1px solid royalblue;
+  height: 30px;
+  border-collapse: collapse;
+  padding: 15px;
+  text-align: left;
+
+}
+
+
+
+
+/*
+ul { 
+
+  list-style-type: none;
+
+  margin: 0;
+  
+  padding: 0px; 
+  overflow: hidden;
+  background-color: #333;
+} 
+
+
+li {
+  float: right;
+}
+
+a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+*/
